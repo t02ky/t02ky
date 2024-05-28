@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 <br>
-<p>Updated on <strong>28 May, 2024</strong></p>
+<p>Updated on <i>28 May, 2024</i></p>
 <!---
 t02ky/t02ky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
