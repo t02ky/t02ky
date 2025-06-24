@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, I’m @t02ky
 - 💼 I'm an Univ Student
 - 🪙 I'm working at ...
@@ -7,6 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He / Him / His
+--->
 
 <!---
 t02ky/t02ky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
